@@ -204,10 +204,6 @@ black src/
 
 如果你觉得这个项目有用，请给它一个 ⭐️！
 
-- 📧 邮箱: support@gitee-auto-commit.com
-- 🐛 问题反馈: [Issues](https://gitee.com/username/gitee-auto-commit/issues)
-- 💬 讨论: [Discussions](https://gitee.com/username/gitee-auto-commit/discussions)
-
 ## 🙏 致谢
 
 感谢所有为这个项目做出贡献的开发者！
