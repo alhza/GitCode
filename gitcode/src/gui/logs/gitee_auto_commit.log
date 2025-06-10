@@ -1,0 +1,14 @@
+2025-06-10 15:19:41 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 15:19:41 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 15:19:41 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\src\gui\logs
+2025-06-10 15:19:41 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 15:19:41 - src.config.config_manager - INFO - 配置文件不存在，创建默认配置
+2025-06-10 15:19:41 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 15:19:41 - src.config.config_manager - INFO - 配置文件保存成功
+2025-06-10 15:19:41 - __main__ - INFO - 主窗口初始化完成
+2025-06-10 15:19:41 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 15:19:41 - src.config.config_manager - INFO - 配置文件加载成功
+2025-06-10 15:19:46 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 15:19:46 - src.config.config_manager - INFO - 配置文件加载成功
+2025-06-10 15:19:51 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 15:19:51 - src.config.config_manager - INFO - 配置文件加载成功

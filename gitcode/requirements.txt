@@ -1,0 +1,31 @@
+# Gitee自动提交工具依赖包
+
+# 核心依赖
+GitPython>=3.1.0          # Git操作
+watchdog>=2.1.0           # 文件监控
+schedule>=1.1.0           # 定时任务
+requests>=2.28.0          # HTTP请求
+PyYAML>=6.0               # 配置文件解析
+cryptography>=3.4.0       # 加密功能
+click>=8.0.0              # 命令行界面
+rich>=12.0.0              # 美化输出
+
+# GUI框架
+PyQt5>=5.15.0             # 主要GUI框架（推荐）
+# PyQt6>=6.0.0            # 新版本GUI框架（备选）
+
+# 可选增强
+pillow>=9.0.0             # 图像处理（图标支持）
+psutil>=5.8.0             # 系统信息获取
+
+# 开发和测试
+pytest>=7.0.0             # 单元测试
+pytest-cov>=4.0.0         # 测试覆盖率
+black>=22.0.0             # 代码格式化
+flake8>=5.0.0             # 代码检查
+mypy>=0.991               # 类型检查
+
+# 打包和分发
+pyinstaller>=5.0.0        # 应用程序打包
+setuptools>=65.0.0        # 包管理
+wheel>=0.37.0             # 包构建

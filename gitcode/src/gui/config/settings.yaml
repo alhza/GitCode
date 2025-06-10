@@ -1,0 +1,23 @@
+commit:
+  auto_message: true
+  max_files_per_commit: 50
+  message_template: '{type}: {description}'
+global:
+  auto_save: true
+  log_level: INFO
+  max_log_files: 10
+monitoring:
+  debounce_seconds: 5
+  enabled: true
+  ignore_patterns:
+  - '*.log'
+  - '*.tmp'
+  - node_modules/
+  - .git/
+  - __pycache__/
+  - '*.pyc'
+repositories: []
+schedule:
+  enabled: false
+  mode: daily
+  time: '18:00'

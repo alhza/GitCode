@@ -1,0 +1,143 @@
+2025-06-10 16:07:45 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:07:45 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:07:45 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:07:45 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 16:07:45 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:07:45 - src.git_ops.git_handler - INFO - Git仓库初始化成功: D:\Code\Python\gitcode
+2025-06-10 16:07:46 - src.gui.main_window - INFO - 主窗口初始化完成
+2025-06-10 16:08:02 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:08:02 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:08:02 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:08:02 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:08:12 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:08:12 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:08:12 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:08:12 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:08:12 - src.git_ops.git_handler - INFO - Git仓库初始化成功: D:\Code\Python\gitcode
+2025-06-10 16:08:33 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:08:33 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:08:33 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:08:33 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 16:08:34 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:08:34 - src.git_ops.git_handler - INFO - Git仓库初始化成功: D:\Code\Python\gitcode
+2025-06-10 16:08:34 - src.gui.main_window - INFO - 主窗口初始化完成
+2025-06-10 16:08:49 - src.auto_committer - INFO - 监控循环开始
+2025-06-10 16:08:49 - src.auto_committer - INFO - 开始监控 1 个仓库，间隔 30 秒
+2025-06-10 16:08:49 - src.auto_committer - INFO - 检测到 gitcode 有变更，准备自动提交
+2025-06-10 16:08:49 - src.auto_committer - INFO - 添加文件到暂存区: gitcode
+2025-06-10 16:08:49 - src.git_ops.git_handler - INFO - 已添加所有变更文件到暂存区
+2025-06-10 16:08:49 - src.auto_committer - INFO - 创建提交: gitcode - chore: 新增5个文件，修改9个文件，涉及5个Other文件、5个Python文件
+2025-06-10 16:08:49 - src.git_ops.git_handler - INFO - 提交创建成功: 5f750e0f - chore: 新增5个文件，修改9个文件，涉及5个Other文件、5个Python文件
+2025-06-10 16:08:49 - src.auto_committer - INFO - 提交成功: gitcode
+2025-06-10 16:08:52 - src.auto_committer - INFO - 监控循环结束
+2025-06-10 16:08:52 - src.auto_committer - INFO - 监控已停止
+2025-06-10 16:09:28 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:09:28 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:09:28 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:09:28 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 16:09:29 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:09:29 - src.git_ops.git_handler - INFO - Git仓库初始化成功: D:\Code\Python\gitcode
+2025-06-10 16:09:29 - src.gui.main_window - INFO - 主窗口初始化完成
+2025-06-10 16:11:49 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:11:49 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:11:49 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:11:49 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 16:11:50 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:11:50 - src.git_ops.git_handler - INFO - Git仓库初始化成功: D:\Code\Python\gitcode
+2025-06-10 16:11:50 - src.gui.main_window - INFO - 主窗口初始化完成
+2025-06-10 16:12:06 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:12:06 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:12:06 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:12:06 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:12:06 - src.git_ops.git_handler - INFO - Git仓库初始化成功: D:\Code\Python\gitcode
+2025-06-10 16:12:07 - src.auto_committer - INFO - 添加文件到暂存区: gitcode
+2025-06-10 16:12:07 - src.git_ops.git_handler - INFO - 已添加所有变更文件到暂存区
+2025-06-10 16:12:07 - src.auto_committer - INFO - 创建提交: gitcode - chore: 修改1个文件，涉及1个Other文件，更新logs模块
+2025-06-10 16:12:07 - src.git_ops.git_handler - INFO - 提交创建成功: 51ac0f4a - chore: 修改1个文件，涉及1个Other文件，更新logs模块
+2025-06-10 16:12:07 - src.auto_committer - INFO - 提交成功: gitcode
+2025-06-10 16:12:16 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:12:16 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:12:16 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:12:16 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:12:16 - src.config.config_manager - INFO - 配置文件重新加载成功
+2025-06-10 16:12:16 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:12:16 - src.config.config_manager - INFO - 配置文件保存成功
+2025-06-10 16:12:17 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:12:31 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:12:31 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:12:31 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:12:31 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:12:31 - src.git_ops.git_handler - INFO - Git仓库初始化成功: D:\Code\Python\gitcode
+2025-06-10 16:12:31 - src.git_ops.git_handler - INFO - 已添加所有变更文件到暂存区
+2025-06-10 16:12:31 - src.git_ops.git_handler - INFO - 提交创建成功: 38c41fa9 - docs: 更新项目配置和文档
+2025-06-10 16:12:48 - src.git_ops.git_handler - INFO - 推送成功: origin/master
+2025-06-10 16:13:13 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:13:13 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:13:13 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:13:13 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 16:13:13 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:13:13 - src.git_ops.git_handler - INFO - Git仓库初始化成功: D:\Code\Python\gitcode
+2025-06-10 16:13:14 - src.gui.main_window - INFO - 主窗口初始化完成
+2025-06-10 16:13:21 - src.auto_committer - INFO - 添加文件到暂存区: gitcode
+2025-06-10 16:13:21 - src.git_ops.git_handler - INFO - 已添加所有变更文件到暂存区
+2025-06-10 16:13:21 - src.auto_committer - INFO - 创建提交: gitcode - chore: 修改1个文件，涉及1个Other文件，更新logs模块
+2025-06-10 16:13:21 - src.git_ops.git_handler - INFO - 提交创建成功: 26bb6907 - chore: 修改1个文件，涉及1个Other文件，更新logs模块
+2025-06-10 16:13:21 - src.auto_committer - INFO - 提交成功: gitcode
+2025-06-10 16:13:21 - src.auto_committer - INFO - 自动推送: gitcode
+2025-06-10 16:13:24 - src.git_ops.git_handler - INFO - 推送成功: origin/master
+2025-06-10 16:13:24 - src.auto_committer - INFO - 推送成功: gitcode
+2025-06-10 16:13:39 - src.auto_committer - INFO - 添加文件到暂存区: gitcode
+2025-06-10 16:13:39 - src.git_ops.git_handler - INFO - 已添加所有变更文件到暂存区
+2025-06-10 16:13:39 - src.auto_committer - INFO - 创建提交: gitcode - chore: 修改1个文件，涉及1个Other文件，更新logs模块
+2025-06-10 16:13:39 - src.git_ops.git_handler - INFO - 提交创建成功: 9fba02d6 - chore: 修改1个文件，涉及1个Other文件，更新logs模块
+2025-06-10 16:13:39 - src.auto_committer - INFO - 提交成功: gitcode
+2025-06-10 16:13:39 - src.auto_committer - INFO - 自动推送: gitcode
+2025-06-10 16:13:41 - src.git_ops.git_handler - INFO - 推送成功: origin/master
+2025-06-10 16:13:41 - src.auto_committer - INFO - 推送成功: gitcode
+2025-06-10 16:18:05 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:18:05 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:18:05 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:18:05 - src.config.config_manager - INFO - 配置文件不存在，创建默认配置
+2025-06-10 16:18:05 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:18:05 - src.config.config_manager - INFO - 配置文件保存成功
+2025-06-10 16:18:08 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:18:08 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:18:08 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:18:08 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 16:18:08 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:18:08 - src.gui.main_window - INFO - 主窗口初始化完成
+2025-06-10 16:19:01 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:19:01 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:19:01 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:19:01 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:19:10 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:19:10 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:19:10 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:19:10 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:23:12 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:23:12 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:23:12 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:23:13 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 16:23:13 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:23:13 - src.gui.main_window - INFO - 主窗口初始化完成
+2025-06-10 16:27:20 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:27:20 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:27:20 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:27:20 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:27:44 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:27:44 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:27:44 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:27:44 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 16:27:44 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:27:44 - src.gui.main_window - INFO - 主窗口初始化完成
+2025-06-10 16:27:58 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:27:58 - src.config.config_manager - INFO - 配置文件保存成功
+2025-06-10 16:27:59 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:29:06 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:29:06 - src.config.config_manager - INFO - 配置文件保存成功
+2025-06-10 16:29:42 - src.utils.logger - INFO - 日志系统初始化完成
+2025-06-10 16:29:42 - src.utils.logger - INFO - 日志级别: INFO
+2025-06-10 16:29:42 - src.utils.logger - INFO - 日志目录: D:\Code\Python\gitcode\logs
+2025-06-10 16:29:42 - src.auto_committer - INFO - 自动提交器初始化完成
+2025-06-10 16:29:43 - src.config.settings_validator - INFO - 配置验证通过
+2025-06-10 16:29:43 - src.gui.main_window - INFO - 主窗口初始化完成
